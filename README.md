@@ -32,39 +32,45 @@
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Flagship Showcase Repositories
 
 #### 🤖 1. [marl-and-symbolic-ai](https://github.com/Androm3d/marl-and-symbolic-ai)
 > **Multi-Agent Reinforcement Learning & Symbolic AI Architecture**
 * **Tech:** Python, PyTorch, AgentSpeak / Jason, Game Theory, PDDL.
 * **POEGMA MARL:** Evaluated Joint Action Learning (JAL-GT) with Nash, Pareto, Minimax, and Welfare solution concepts under partial observability.
 * **Symbolic AI (Highest Honors):** Engineered an AgentSpeak symbolic Capture-The-Flag team architecture.
-* **Heuristic Search & PDDL Planning:** Local search optimization (`Azamon`) and automated PDDL planning domains (`rovers`).
+* **Automated Planning & Heuristic Search:** PDDL automated exploration planning (`rovers`) and local search optimization (`Azamon`).
 * *Co-authors:* [@Edexel2vic](https://github.com/Edexel2vic), [@pacopua](https://github.com/pacopua).
 
 #### ⚡ 2. [cpp-algorithms](https://github.com/Androm3d/cpp-algorithms)
-> **High-Performance C++ Graph Percolation, MinHash/LSH Similarity & SAT Solver**
-* **Tech:** C++17, Graph Theory, MinHash, Locality Sensitive Hashing (LSH), Union-Find, DPLL SAT.
+> **High-Performance C++ Graph Percolation & MinHash/LSH Document Similarity**
+* **Tech:** C++17, Graph Theory, MinHash, Locality Sensitive Hashing (LSH), Union-Find.
 * **Graph Percolation:** Simulated connectivity thresholds and phase transitions in Random Geometric Graphs, Barabási-Albert scale-free networks, and 2D Grids.
 * **Document Similarity Engine:** Implemented high-throughput MinHash shingling, LSH Bucketing, and LSH Forest for fast sub-linear Jaccard distance search.
-* **C++ SAT Solver & Interpreter:** Efficient DPLL Boolean Satisfiability solver (`kisSat`) and Python AST language compiler/interpreter.
 * *Co-authors:* [@BielPerezS](https://github.com/BielPerezS), [@ginabolita](https://github.com/ginabolita), [@Alusat](https://github.com/Alusat), [@pacopua](https://github.com/pacopua).
 
 #### 📊 3. [sorbonne-data-science-ai](https://github.com/Androm3d/sorbonne-data-science-ai)
 > **Statistical Machine Learning, Explainable AI & Computer Vision Showcase** *(Sorbonne Université)*
-* **Tech:** Python, PyTorch, OpenCV, SHAP, Scikit-Learn, Spatial Scraping.
+* **Tech:** Python, PyTorch, OpenCV, SHAP, Scikit-Learn, Spatial Scraping, SWI-Prolog.
 * **Gentrification XAI (`DALAS`):** Built spatial web scraping pipelines and SHAP (SHapley Additive exPlanations) interpretability models for neighborhood gentrification.
 * **Statistical Inference (`MAPSI`):** Implementations of Bayesian Networks, Hidden Markov Models (HMMs), MAP/MLE parameter estimation, and Expectation-Maximization (EM).
 * **Computer Vision (`BIMA`):** Fourier transform filtering, frequency domain analysis, biomedical image segmentation, and feature extraction.
+* **Symbolic Logic & Knowledge Representation (`LRC`):** First-Order Resolution, $\mathcal{ALC}$ Description Logics, and rule-based inference engines in Prolog.
 * *Co-author:* [@gargenti](https://github.com/gargenti).
 
 #### 🎮 4. [graphics-and-simulations](https://github.com/Androm3d/graphics-and-simulations)
 > **3D Physics Engine, GLSL Shaders & Interactive Graphics Simulation** *(UPC-FIB)*
 * **Tech:** C++, GLSL Shaders, WebGPU, OpenGL, Unity/C#.
 * **3D Physics Engine (Highest Honors):** Built articulated rigid-body simulations, Denavit-Hartenberg kinematics, and custom GLSL shader pipelines.
-* **Custom GLSL Shaders & Plugins:** Custom vertex/fragment shaders (procedural lighting, environment mapping, bump mapping) and OpenGL C++ viewer plugins.
+* **Custom GLSL Shaders & Plugins:** Custom vertex/fragment shaders (procedural lighting, bump mapping, CRT scanlines) and OpenGL C++ viewer plugins.
 * **Interactive 2D/3D Games:** Developed custom C++ rendering engines, tilemap colliders, and animation systems.
 * *Co-authors:* [@alexlafuente](https://github.com/alexlafuente), [@Jergasus](https://github.com/Jergasus).
+
+---
+
+### 📦 Additional Standalone Repositories
+
+* 🛒 **[PROP (Product Distributor 3000)](https://github.com/Androm3d/PROP)**: Production-grade Java desktop application featuring supermarket shelf layout graph optimization algorithms, JUnit 5 testing suite, JSON/CSV persistence, and Java Swing GUI.
 
 ---
 
