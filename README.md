@@ -40,12 +40,14 @@
 * **POEGMA MARL:** Evaluated Joint Action Learning (JAL-GT) with Nash, Pareto, Minimax, and Welfare solution concepts under partial observability.
 * **Symbolic AI (Highest Honors):** Engineered an AgentSpeak symbolic Capture-The-Flag team architecture.
 * **RL Algorithms:** Benchmarked Q-Learning, Model-Based RL, Value Iteration, and REINFORCE algorithms on grid environments.
+* *Co-authors:* [@Edexel2vic](https://github.com/Edexel2vic), [@pacopua](https://github.com/pacopua).
 
 #### ⚡ 2. [cpp-algorithmics](https://github.com/Androm3d/cpp-algorithmics)
 > **High-Performance C++ Graph Percolation & MinHash/LSH Document Similarity**
 * **Tech:** C++17, Graph Theory, MinHash, Locality Sensitive Hashing (LSH), Union-Find.
 * **Graph Percolation:** Simulated connectivity thresholds and phase transitions in Random Geometric Graphs, Barabási-Albert scale-free networks, and 2D Grids.
 * **Document Similarity Engine:** Implemented high-throughput MinHash shingling, LSH Bucketing, and LSH Forest for fast sub-linear Jaccard distance search.
+* *Co-authors:* [@BielPerezS](https://github.com/BielPerezS), [@ginabolita](https://github.com/ginabolita), [@Alusat](https://github.com/Alusat), [@pacopua](https://github.com/pacopua).
 
 #### 📊 3. [sorbonne-data-science-ai](https://github.com/Androm3d/sorbonne-data-science-ai)
 > **Statistical Machine Learning, Explainable AI & Computer Vision Showcase** *(Sorbonne Université)*
@@ -53,17 +55,26 @@
 * **Gentrification XAI (`DALAS`):** Built spatial web scraping pipelines and SHAP (SHapley Additive exPlanations) interpretability models for neighborhood gentrification.
 * **Statistical Inference (`MAPSI`):** Implementations of Bayesian Networks, Hidden Markov Models (HMMs), MAP/MLE parameter estimation, and Expectation-Maximization (EM).
 * **Computer Vision (`BIMA`):** Fourier transform filtering, frequency domain analysis, biomedical image segmentation, and feature extraction.
+* *Co-author:* [@gargenti](https://github.com/gargenti).
 
 #### 🎮 4. [graphics-and-simulations](https://github.com/Androm3d/graphics-and-simulations)
 > **3D Physics Engine & Interactive Graphics Simulation** *(UPC-FIB)*
 * **Tech:** C++, GLSL Shaders, WebGPU, OpenGL, Unity/C#.
 * **3D Physics Engine (Highest Honors):** Built articulated rigid-body simulations, Denavit-Hartenberg kinematics, and custom GLSL shader pipelines.
 * **Interactive 2D/3D Games:** Developed custom C++ rendering engines, tilemap colliders, and animation systems.
+* *Co-authors:* [@alexlafuente](https://github.com/alexlafuente), [@Jergasus](https://github.com/Jergasus).
 
-#### 📈 5. [financial-nlp-sentiment-framework](https://github.com/Androm3d/financial-nlp-sentiment-framework)
-> **Production-Grade Unsupervised NLP & Sentiment Mining Engine**
-* **Tech:** Python, PyTorch, Dask, Optuna, BERTopic, FinBERT, Dash.
-* Open-source, NDA-compliant architecture demonstration of distributed text ingestion, Optuna Bayesian hyperparameter tuning for BERTopic/LDA, FinBERT sentiment scoring, and market event impact studies.
+---
+
+### 🤝 Collaborative Projects & Co-authors
+Grateful to collaborate with talented engineers across UPC-FIB and Sorbonne Université:
+* **Víctor Ramírez Arimaha** ([@Edexel2vic](https://github.com/Edexel2vic)) – MARL & Symbolic AI
+* **Adrià Cebrián Ruiz** ([@pacopua](https://github.com/pacopua)) – MARL & Graph Percolation
+* **Biel Pérez Silvestre** ([@BielPerezS](https://github.com/BielPerezS)) – MinHash / LSH Engine
+* **Gabriele Argentieri** ([@gargenti](https://github.com/gargenti)) – Sorbonne DALAS XAI
+* **Àlex Lafuente** ([@alexlafuente](https://github.com/alexlafuente)) – 3D Graphics Engine
+* **Jergasus** ([@Jergasus](https://github.com/Jergasus)) – 2D C++ Game
+* **Gina** ([@ginabolita](https://github.com/ginabolita)) & **Alusat** ([@Alusat](https://github.com/Alusat)) – LSH Similarity
 
 ---
 
