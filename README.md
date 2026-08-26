@@ -77,10 +77,9 @@
 
 ---
 
-### 📦 Software Engineering & Systems Work
+### 📦 Software Engineering & Standalone Systems
 
 * 🛒 **[PROP (Product Distributor 3000)](https://github.com/Androm3d/PROP)**: Production-grade Java desktop application featuring supermarket shelf layout graph optimization algorithms, JUnit 5 testing suite, JSON/CSV persistence, and Java Swing GUI.
-* 🎧 **Native Background Audio Engine (`soundsApp`)**: Cross-platform C++ & Qt desktop background audio processing engine with custom CMake build pipelines and native audio stream drivers.
 
 ---
 
