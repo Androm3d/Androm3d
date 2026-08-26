@@ -16,7 +16,7 @@
 * 🌍 **M.Sc. AI Exchange Semester** @ **Sorbonne Université** (Paris) – *Parcours MIND & IMA* (Statistical Inference, Bayesian Networks, HMMs & Computer Vision).
 * 💼 **Data Science Intern** @ **Acuity Trading** (NLP pipelines, topic modeling, sentiment engines) & **Accenture** (Multi-agent verification systems with LangGraph).
 * 🥇 **Matrículas de Honor** (Highest Honors) in *Distributed Intelligent Systems* (SID) & *Physics Simulation* (FOMAR).
-* 🎯 **Core Focus**: **Multi-Agent Systems, Reinforcement Learning, NLP Architecture, and High-Performance C++ Engineering**.
+* 🎯 **Core Focus**: **Multi-Agent Systems, Reinforcement Learning, Applied NLP, High-Performance C++ and Spatial Data Science**.
 
 ---
 
@@ -26,8 +26,8 @@
   AI & Machine Learning    │ PyTorch • LangGraph • BERTopic • FinBERT • Optuna • Scikit-Learn • OpenCV
   Statistical Inference    │ Bayesian Networks • Hidden Markov Models • MAP/MLE • EM Algorithm • SHAP XAI
   Quantitative & Data      │ Dask • Pandas • NumPy • PostgreSQL • SpaCy • Custom Web Scraping
-  Languages                │ Python • C++17 • SQL • C • Java • GLSL Shaders • Bash
-  Systems & Infrastructure │ Linux (Arch/CachyOS) • Git • Parallel Computing (OpenMP/MPI) • WebGPU
+  Languages                │ Python • C++17 • SQL • Java • C • GLSL Shaders • SWI-Prolog • Bash
+  Systems & Infrastructure │ Linux (Arch/CachyOS) • Git • CMake • Parallel Computing (OpenMP/MPI) • WebGPU
 ```
 
 ---
@@ -39,7 +39,7 @@
 * **Tech:** Python, PyTorch, AgentSpeak / Jason, Game Theory, PDDL.
 * **POEGMA MARL:** Evaluated Joint Action Learning (JAL-GT) with Nash, Pareto, Minimax, and Welfare solution concepts under partial observability.
 * **Symbolic AI (Highest Honors):** Engineered an AgentSpeak symbolic Capture-The-Flag team architecture.
-* **Automated Planning & Heuristic Search:** PDDL automated exploration planning (`rovers`) and local search optimization (`Azamon`).
+* **Automated Planning & Heuristic Search:** PDDL automated exploration planning (`rovers`) and local search logistics optimization (`Azamon`).
 * *Co-authors:* [@Edexel2vic](https://github.com/Edexel2vic), [@pacopua](https://github.com/pacopua).
 
 #### ⚡ 2. [cpp-algorithms](https://github.com/Androm3d/cpp-algorithms)
@@ -68,21 +68,33 @@
 
 ---
 
-### 📦 Additional Standalone Repositories
+### 🏆 Hackathons & Competitive Engineering
+
+* 🏭 **[HackUPC 2026 -- Warehouse Bay Optimization](https://github.com/alexcantarero/HackUPC2026)**
+  * Developed a high-performance **C++ optimization engine** using **Simulated Annealing** and **Genetic Algorithms** to solve industrial warehouse bay layout placement and routing constraints.
+* ✈️ **[HackUPC 2025 -- Symbolic AI Travel Advisor](https://github.com/Alusat/HACKUPC2025)**
+  * Engineered a rule-based intelligent travel recommendation system in **Prolog**, leveraging constraint satisfaction and symbolic logic reasoning over personalized traveler preferences.
+
+---
+
+### 📦 Software Engineering & Systems Work
 
 * 🛒 **[PROP (Product Distributor 3000)](https://github.com/Androm3d/PROP)**: Production-grade Java desktop application featuring supermarket shelf layout graph optimization algorithms, JUnit 5 testing suite, JSON/CSV persistence, and Java Swing GUI.
+* 🎧 **Native Background Audio Engine (`soundsApp`)**: Cross-platform C++ & Qt desktop background audio processing engine with custom CMake build pipelines and native audio stream drivers.
 
 ---
 
 ### 🤝 Collaborative Projects & Co-authors
-Grateful to collaborate with talented engineers across UPC-FIB and Sorbonne Université:
+Grateful to collaborate with talented engineers across UPC-FIB, Sorbonne Université, and HackUPC:
 * **Víctor Ramírez Arimaha** ([@Edexel2vic](https://github.com/Edexel2vic)) – MARL & Symbolic AI
 * **Adrià Cebrián Ruiz** ([@pacopua](https://github.com/pacopua)) – MARL & Graph Percolation
 * **Biel Pérez Silvestre** ([@BielPerezS](https://github.com/BielPerezS)) – MinHash / LSH Engine
 * **Gabriele Argentieri** ([@gargenti](https://github.com/gargenti)) – Sorbonne DALAS XAI
 * **Àlex Lafuente** ([@alexlafuente](https://github.com/alexlafuente)) – 3D Graphics Engine
+* **Alex Cantarero** ([@alexcantarero](https://github.com/alexcantarero)) – HackUPC 2026 & Systems
+* **Alusat** ([@Alusat](https://github.com/Alusat)) – HackUPC 2025 & LSH Similarity
 * **Jergasus** ([@Jergasus](https://github.com/Jergasus)) – 2D C++ Game
-* **Gina** ([@ginabolita](https://github.com/ginabolita)) & **Alusat** ([@Alusat](https://github.com/Alusat)) – LSH Similarity
+* **Gina** ([@ginabolita](https://github.com/ginabolita)) – LSH Similarity
 
 ---
 
